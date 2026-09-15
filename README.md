@@ -17,7 +17,7 @@
 
 I'm a 3rd-year Computer Science undergraduate at the **University of Sri Jayewardenepura**, Sri Lanka, passionate about full-stack development and building my way toward AI/ML and Cloud/DevOps.
 
-- 🧑‍💻 Full-stack developer at heart — comfortable across the React/Node stack, now branching into AI/ML and Cloud/DevOps
+- 🧑‍💻 Full-stack developer at heart - comfortable across the React/Node stack, now branching into AI/ML and Cloud/DevOps
 - 🧠 Deepening my Python and ML fundamentals, moving past tutorial-level projects into real, well-scoped ones
 - ☁️ Getting hands-on with Docker and cloud basics as a first step toward DevOps
 - 🎯 Aiming for a Software Engineering internship, with AI/ML and Cloud as the specializations I'm building toward next
@@ -136,5 +136,5 @@ Clean, accessible page structure and responsive layout.
 <br/>
 
 <div align="center">
-<sub>Thanks for stopping by — feel free to explore the pinned repos above 👆</sub>
+<sub>Thanks for stopping by - feel free to explore the pinned repos above 👆</sub>
 </div>
