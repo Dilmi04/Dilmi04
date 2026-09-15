@@ -1,11 +1,11 @@
 <div align="center">
 
 # Hi 👋, I'm Dilmi Sandunika
-### Computer Science Undergraduate 
+### Computer Science Undergraduate
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=24D8E0&center=true&vCenter=true&width=600&lines=Building+for+the+Web+%2B+Exploring+AI;Open+to+SWE+%2F+AI-ML+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=24D8E0&center=true&vCenter=true&width=600&lines=Software+Engineer+in+the+making+%F0%9F%92%BB;Exploring+AI%2FML+%2B+Cloud%2FDevOps+%E2%98%81%EF%B8%8F;Full-Stack+Developer+%7C+Open+to+SWE+Internships" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif" width="160"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="150"/>
 
 <img src="https://komarev.com/ghpvc/?username=Dilmi04&color=24d8e0&style=flat&label=Profile+Views" />
 
@@ -15,11 +15,23 @@
 
 ## About Me
 
-I'm a 3rd-year Computer Science undergraduate at the **University of Sri Jayewardenepura**, Sri Lanka, focused on full-stack development with a growing interest in AI/ML and cloud systems.
+I'm a 3rd-year Computer Science undergraduate at the **University of Sri Jayewardenepura**, Sri Lanka, passionate about full-stack development and building my way toward AI/ML and Cloud/DevOps.
 
-- 🌱 Deepening my Python skills and learning to build real ML projects - not just prediction demos
-- 🎯 Working toward a Software Engineering internship, with AI/ML and Cloud/DevOps as the next steps
+- 🧑‍💻 Full-stack developer at heart — comfortable across the React/Node stack, now branching into AI/ML and Cloud/DevOps
+- 🧠 Deepening my Python and ML fundamentals, moving past tutorial-level projects into real, well-scoped ones
+- ☁️ Getting hands-on with Docker and cloud basics as a first step toward DevOps
+- 🎯 Aiming for a Software Engineering internship, with AI/ML and Cloud as the specializations I'm building toward next
 - 💬 Ask me about React, Node.js/Express, or full-stack architecture
+
+<br/>
+
+## 🚀 Currently Exploring
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,aws,docker&theme=dark" />
+
+</div>
 
 <br/>
 
@@ -59,42 +71,41 @@ I'm a 3rd-year Computer Science undergraduate at the **University of Sri Jayewar
 
 <br/>
 
-## Featured Projects
+## 🅿️ Currently Building — ParkEase
+
+Smart web app for parking businesses, built with a team of 8.
+`React` `Vite` `Node.js` `Express` `Prisma` `PostgreSQL`
+
+I own the customer-facing vehicle & account management flows on the frontend, plus the slot search and reservation APIs on the backend — including debugging a tricky Prisma + Docker configuration issue that was blocking the whole team.
+
+<br/>
+
+## Other Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**🅿️ ParkEase**
-Smart web app for parking businesses — built with a team of 8.
-`React` `Vite` `Node.js` `Express` `Prisma` `PostgreSQL`
-Owned the customer-facing vehicle & account management flows, plus the slot search and reservation APIs.
-
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **🩸 LifeFlowAI**
 AI-powered emergency blood donation coordination web app.
 `JavaScript`
-Focused on connecting donors and requests faster in urgent situations.
+Connects donors and requests faster in urgent situations.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **🏙️ OpenGL Clock Tower & Town Environment**
 A 3D graphics environment built from scratch.
 `C++` `OpenGL`
-Explored real-time rendering, transformations, and scene composition.
+Real-time rendering, transformations, and scene composition.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **🐾 PET-CARE Website**
 A 6-page static site for pet care services.
 `HTML` `CSS` `JavaScript`
-Focused on clean, accessible page structure and responsive layout.
+Clean, accessible page structure and responsive layout.
 
 </td>
 </tr>
@@ -125,5 +136,5 @@ Focused on clean, accessible page structure and responsive layout.
 <br/>
 
 <div align="center">
-<sub>Thanks for stopping by - feel free to explore the pinned repos above 👆</sub>
+<sub>Thanks for stopping by — feel free to explore the pinned repos above 👆</sub>
 </div>
