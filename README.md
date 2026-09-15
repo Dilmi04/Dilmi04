@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif" width="280"/>
-
 # Dilmi Sandunika
 ### Computer Science Undergraduate · Full-Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=24D8E0&center=true&vCenter=true&width=600&lines=Building+for+the+Web+%2B+Exploring+AI;Open+to+SWE+%2F+AI-ML+Internships" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif" width="160"/>
 
 <img src="https://komarev.com/ghpvc/?username=Dilmi04&color=24d8e0&style=flat&label=Profile+Views" />
 
@@ -24,22 +24,39 @@ I'm a 3rd-year Computer Science undergraduate at the **University of Sri Jayewar
 
 <br/>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
+
+🧠 **Programming Languages:**
+
 <img src="https://skillicons.dev/icons?i=py,java,cpp,js,php&theme=dark" />
 
-**Frontend**
+<br/><br/>
+
+🎨 **Frontend Technologies:**
+
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
 
-**Backend**
+<br/><br/>
+
+🧩 **Backend Technologies:**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-**Database & Cloud**
-<img src="https://skillicons.dev/icons?i=postgres,prisma,docker&theme=dark" />
+<br/><br/>
 
-**Tools**
-<img src="https://skillicons.dev/icons?i=git,figma&theme=dark" />
+🗄️ **Databases:**
+
+<img src="https://skillicons.dev/icons?i=postgres,prisma&theme=dark" />
+
+<br/><br/>
+
+🧰 **Tools & Platforms:**
+
+<img src="https://skillicons.dev/icons?i=git,docker,figma&theme=dark" />
+
+</div>
 
 <br/>
 
