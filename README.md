@@ -38,19 +38,19 @@ I'm a 3rd-year Computer Science undergraduate at the **University of Sri Jayewar
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
 
-<br/><br/>
+<br/>
 
 🧩 **Backend Technologies:**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-<br/><br/>
+<br/>
 
 🗄️ **Databases:**
 
 <img src="https://skillicons.dev/icons?i=postgres,prisma&theme=dark" />
 
-<br/><br/>
+<br/>
 
 🧰 **Tools & Platforms:**
 
