@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=24D8E0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dilmi+%F0%9F%91%8B;Computer+Science+Undergraduate;Building+for+the+Web+%2B+Exploring+AI;Open+to+SWE+%2F+AI-ML+Internships" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif" width="280"/>
+
+# Dilmi Sandunika
+### Computer Science Undergraduate · Full-Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=24D8E0&center=true&vCenter=true&width=600&lines=Building+for+the+Web+%2B+Exploring+AI;Open+to+SWE+%2F+AI-ML+Internships" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=Dilmi04&color=24d8e0&style=flat&label=Profile+Views" />
 
 </div>
 
@@ -10,9 +17,8 @@
 
 I'm a 3rd-year Computer Science undergraduate at the **University of Sri Jayewardenepura**, Sri Lanka, focused on full-stack development with a growing interest in AI/ML and cloud systems.
 
-- 🎓 Undergraduate — Computer Science, University of Sri Jayewardenepura
-- 🧭 Currently building a smart web app
-- 🌱 Deepening my Python skills and learning to build real ML projects - not just prediction demos
+- 🧭 Currently building **ParkEase**, a smart web app for parking businesses, as part of an 8-member team
+- 🌱 Deepening my Python skills and learning to build real ML projects — not just prediction demos
 - 🎯 Working toward a Software Engineering internship, with AI/ML and Cloud/DevOps as the next steps
 - 💬 Ask me about React, Node.js/Express, or full-stack architecture
 
@@ -20,15 +26,24 @@ I'm a 3rd-year Computer Science undergraduate at the **University of Sri Jayewar
 
 ## Tech Stack
 
-<div align="center">
+**Languages**
+<img src="https://skillicons.dev/icons?i=py,java,cpp,js,php&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=py,java,cpp,js,php,html,css,react,tailwind,nodejs,express,postgres,prisma,docker,git,figma&theme=dark" />
+**Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
 
-</div>
+**Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+**Database & Cloud**
+<img src="https://skillicons.dev/icons?i=postgres,prisma,docker&theme=dark" />
+
+**Tools**
+<img src="https://skillicons.dev/icons?i=git,figma&theme=dark" />
 
 <br/>
 
-## What I'm Building
+## Featured Projects
 
 <table>
 <tr>
@@ -76,7 +91,7 @@ Focused on clean, accessible page structure and responsive layout.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Dilmi04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilmi04&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilmi04&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
@@ -86,8 +101,8 @@ Focused on clean, accessible page structure and responsive layout.
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-dilmisandunika2003%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dilmisandunika2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilmi-sandunika-a5bb58316)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dilmisandunika2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilmi-sandunika-a5bb58316)
 
 </div>
 
