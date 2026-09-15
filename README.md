@@ -29,7 +29,7 @@ I'm a 3rd-year Computer Science undergraduate at the **University of Sri Jayewar
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,aws,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,azure&theme=dark" />
 
 </div>
 
@@ -53,19 +53,19 @@ I'm a 3rd-year Computer Science undergraduate at the **University of Sri Jayewar
 
 🧩 **Backend Technologies:**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel&theme=dark" />
 
 <br/>
 
 🗄️ **Databases:**
 
-<img src="https://skillicons.dev/icons?i=postgres,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
 
 <br/>
 
 🧰 **Tools & Platforms:**
 
-<img src="https://skillicons.dev/icons?i=git,docker,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,docker,vscode,postman,figma&theme=dark" />
 
 </div>
 
