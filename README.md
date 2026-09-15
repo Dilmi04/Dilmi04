@@ -1,7 +1,7 @@
 <div align="center">
 
 # Dilmi Sandunika
-### Computer Science Undergraduate · Full-Stack Developer
+### Computer Science Undergraduate 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=24D8E0&center=true&vCenter=true&width=600&lines=Building+for+the+Web+%2B+Exploring+AI;Open+to+SWE+%2F+AI-ML+Internships" alt="Typing SVG" />
 
@@ -32,7 +32,7 @@ I'm a 3rd-year Computer Science undergraduate at the **University of Sri Jayewar
 
 <img src="https://skillicons.dev/icons?i=py,java,cpp,js,php&theme=dark" />
 
-<br/><br/>
+<br/>
 
 🎨 **Frontend Technologies:**
 
