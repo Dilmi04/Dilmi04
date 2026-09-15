@@ -17,8 +17,7 @@
 
 I'm a 3rd-year Computer Science undergraduate at the **University of Sri Jayewardenepura**, Sri Lanka, focused on full-stack development with a growing interest in AI/ML and cloud systems.
 
-- 🧭 Currently building **ParkEase**, a smart web app for parking businesses, as part of an 8-member team
-- 🌱 Deepening my Python skills and learning to build real ML projects — not just prediction demos
+- 🌱 Deepening my Python skills and learning to build real ML projects - not just prediction demos
 - 🎯 Working toward a Software Engineering internship, with AI/ML and Cloud/DevOps as the next steps
 - 💬 Ask me about React, Node.js/Express, or full-stack architecture
 
@@ -126,5 +125,5 @@ Focused on clean, accessible page structure and responsive layout.
 <br/>
 
 <div align="center">
-<sub>Thanks for stopping by — feel free to explore the pinned repos above 👆</sub>
+<sub>Thanks for stopping by - feel free to explore the pinned repos above 👆</sub>
 </div>
