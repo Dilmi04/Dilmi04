@@ -25,51 +25,8 @@ I'm a 3rd-year Computer Science undergraduate at the **University of Sri Jayewar
 
 <br/>
 
-## 🚀 Currently Exploring
+<img width="843" height="871" alt="image" src="https://github.com/user-attachments/assets/5e9e43d0-76a7-48c7-9112-fada3e38978e" />
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,azure&theme=dark" />
-
-</div>
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-🧠 **Programming Languages:**
-
-<img src="https://skillicons.dev/icons?i=py,java,cpp,js,php&theme=dark" />
-
-<br/>
-
-🎨 **Frontend Technologies:**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
-
-<br/>
-
-🧩 **Backend Technologies:**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel&theme=dark" />
-
-<br/>
-
-🗄️ **Databases:**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
-
-<br/>
-
-🧰 **Tools & Platforms:**
-
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,postman,figma&theme=dark" />
-
-</div>
-
-<br/>
 
 ## 🅿️ Currently Building — ParkEase
 
