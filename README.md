@@ -137,5 +137,5 @@ Real-time rendering, transformations, and scene composition.
 <br/>
 
 <div align="center">
-<sub>Thanks for stopping by — feel free to explore the pinned repos above 👆</sub>
+<sub>Thanks for stopping by - feel free to explore the pinned repos above 👆</sub>
 </div>
