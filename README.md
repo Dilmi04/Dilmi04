@@ -128,6 +128,6 @@ Real-time rendering, transformations, and scene composition.
 Let's Connect
 <div align="center">
 
-Gmail LinkedIn
+📧 dilmisandunika2003@gmail.com  |  💼 LinkedIn
 
 </div> <br/> <div align="center"> <sub>Thanks for stopping by — feel free to explore the pinned repos above 👆</sub> </div>
