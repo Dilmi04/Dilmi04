@@ -117,13 +117,9 @@ Real-time rendering, transformations, and scene composition.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dilmi04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilmi04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilmi04&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<br/>
 
 ---
 
@@ -134,7 +130,7 @@ Real-time rendering, transformations, and scene composition.
     <img src="https://img.shields.cloudflare.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.cloudflare.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.cloudflare.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
