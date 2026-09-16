@@ -113,13 +113,14 @@ Real-time rendering, transformations, and scene composition.
 
 <br/>
 
-## GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dilmi04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilmi04&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Dilmi04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilmi04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilmi04&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
