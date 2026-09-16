@@ -131,5 +131,3 @@ Let's Connect
 Gmail LinkedIn
 
 </div> <br/> <div align="center"> <sub>Thanks for stopping by — feel free to explore the pinned repos above 👆</sub> </div>
-
-<p align="center"><em>Thanks for stopping by - feel free to explore the pinned repos above 👇</em></p>
