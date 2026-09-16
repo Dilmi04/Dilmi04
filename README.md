@@ -117,21 +117,19 @@ Real-time rendering, transformations, and scene composition.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dilmi04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilmi04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilmi04&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🌐 Let's Connect
-
+Let's Connect
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.cloudflare.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.cloudflare.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+
+Gmail LinkedIn
+
+</div> <br/> <div align="center"> <sub>Thanks for stopping by — feel free to explore the pinned repos above 👆</sub> </div>
 
 <p align="center"><em>Thanks for stopping by - feel free to explore the pinned repos above 👇</em></p>
