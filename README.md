@@ -3,7 +3,7 @@
 # Hi 👋, I'm Dilmi Sandunika
 ### Computer Science Undergraduate
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=24D8E0&center=true&vCenter=true&width=600&lines=Software+Engineer+in+the+making+%F0%9F%92%BB;Exploring+AI%2FML+%2B+Cloud%2FDevOps+%E2%98%81%EF%B8%8F;Full-Stack+Developer+%7C+Open+to+SWE+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=24D8E0&center=true&vCenter=true&width=600&lines=Passionate+Software+Engineer+%F0%9F%92%BB;Exploring+AI%2FML+%2B+Cloud%2FDevOps+%E2%98%81%EF%B8%8F;Full-Stack+Developer" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Dilmi04&color=24d8e0&style=flat&label=Profile+Views" />
 
