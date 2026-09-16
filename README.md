@@ -125,17 +125,17 @@ Real-time rendering, transformations, and scene composition.
 
 <br/>
 
-## Let's Connect
+---
+
+### 🌐 Let's Connect
 
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dilmisandunika2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilmi-sandunika-a5bb58316)
-
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.cloudflare.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.cloudflare.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
-<br/>
-
-<div align="center">
-<sub>Thanks for stopping by - feel free to explore the pinned repos above 👆</sub>
-</div>
+<p align="center"><em>Thanks for stopping by - feel free to explore the pinned repos above 👇</em></p>
