@@ -71,7 +71,7 @@ I'm a 3rd-year Computer Science undergraduate at the **University of Sri Jayewar
 
 <br/>
 
-## 🅿️ Currently Building — ParkEase
+## 🅿️ Currently Building - ParkEase
 
 Smart web app for parking businesses, built with a team of 8.
 `React` `Vite` `Node.js` `Express` `Prisma` `PostgreSQL`
@@ -117,9 +117,9 @@ Real-time rendering, transformations, and scene composition.
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Dilmi04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br/>
+  <br/></br>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dilmi04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br/>
+  <br/></br>
   <img src="https://streak-stats.demolab.com/?user=Dilmi04&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
