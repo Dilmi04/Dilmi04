@@ -86,10 +86,18 @@ I own the customer-facing vehicle & account management flows on the frontend, pl
 <tr>
 <td width="33%" valign="top">
 
+**🇱🇰 SafeLanka**
+AI-integrated disaster safety & emergency mobile companion.
+`Flutter` `Dart` `Firebase` `Gemini API`
+SOS alerts, offline emergency guides, missing person reporting, and safe location navigation.
+
+</td>
+<td width="33%" valign="top">
+
 **🩸 LifeFlowAI**
-AI-powered emergency blood donation coordination web app.
-`JavaScript`
-Connects donors and requests faster in urgent situations.
+AI-powered emergency blood donation coordination web platform.
+`React` `Node.js` `Express` `MongoDB` `Tailwind`
+Connects hospitals with eligible donors, featuring smart alerts and an AI assistant.
 
 </td>
 <td width="33%" valign="top">
@@ -98,14 +106,6 @@ Connects donors and requests faster in urgent situations.
 A 3D graphics environment built from scratch.
 `C++` `OpenGL`
 Real-time rendering, transformations, and scene composition.
-
-</td>
-<td width="33%" valign="top">
-
-**🐾 PET-CARE Website**
-A 6-page static site for pet care services.
-`HTML` `CSS` `JavaScript`
-Clean, accessible page structure and responsive layout.
 
 </td>
 </tr>
