@@ -116,18 +116,26 @@ Real-time rendering, transformations, and scene composition.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dilmi04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Dilmi04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilmi04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dilmi04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilmi04&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Dilmi04&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-Let's Connect
+## Let's Connect
+
 <div align="center">
 
-Gmail LinkedIn
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dilmisandunika2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilmi-sandunika-a5bb58316)
 
-</div> <br/> <div align="center"> <sub>Thanks for stopping by — feel free to explore the pinned repos above 👆</sub> </div>
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Thanks for stopping by — feel free to explore the pinned repos above 👆</sub>
+</div>
